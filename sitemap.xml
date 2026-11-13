@@ -3,12 +3,43 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://rabbiashermelamed.com/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-11-13</lastmod>
     <image:image>
       <image:loc>https://rabbiashermelamed.com/images/successful-marriage-book-cover.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://rabbiashermelamed.com/images/successful-marriage-book-back-cover.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://rabbiashermelamed.com/about/</loc>
+    <lastmod>2026-11-13</lastmod>
+  </url>
+  <url>
+    <loc>https://rabbiashermelamed.com/endorsements/</loc>
+    <lastmod>2026-11-13</lastmod>
+    <image:image>
+      <image:loc>https://rabbiashermelamed.com/images/endorsements/haskama-rabbi-ben-chaim.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rabbiashermelamed.com/images/endorsements/haskama-rabbi-oelbaum.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rabbiashermelamed.com/images/endorsements/haskama-rabbi-haimoff.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rabbiashermelamed.com/images/endorsements/haskama-rabbi-mizrachi.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rabbiashermelamed.com/images/endorsements/haskama-rabbi-ribacoff.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://rabbiashermelamed.com/faq/</loc>
+    <lastmod>2026-11-13</lastmod>
+  </url>
+  <url>
+    <loc>https://rabbiashermelamed.com/buy/</loc>
+    <lastmod>2026-11-13</lastmod>
   </url>
 </urlset>
