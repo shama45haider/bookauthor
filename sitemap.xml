@@ -14,6 +14,12 @@
   <url>
     <loc>https://rabbiashermelamed.com/about/</loc>
     <lastmod>2026-11-13</lastmod>
+    <image:image>
+      <image:loc>https://rabbiashermelamed.com/images/successful-marriage-book-cover-760.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://rabbiashermelamed.com/images/successful-marriage-book-back-cover.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://rabbiashermelamed.com/endorsements/</loc>
@@ -41,5 +47,8 @@
   <url>
     <loc>https://rabbiashermelamed.com/buy/</loc>
     <lastmod>2026-11-13</lastmod>
+    <image:image>
+      <image:loc>https://rabbiashermelamed.com/images/successful-marriage-book-cover-760.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
