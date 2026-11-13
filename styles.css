@@ -140,10 +140,14 @@ a:hover { color: var(--blue-deep); }
     padding-bottom: 8px;
     min-height: 0;
   }
-  .nav { margin: 0; gap: 22px; }
+  .nav { margin: 0; gap: 2px 16px; flex-wrap: wrap; justify-content: center; }
   .nav a { font-size: 0.98rem; padding: 6px 0; }
   .nav .nav-buy { display: inline; color: var(--blue); border-bottom-color: var(--buy-bottom); }
   .site-header .header-buy { display: none; }
+}
+@media (max-width: 380px) {
+  .nav { gap: 2px 12px; }
+  .nav a { font-size: 0.94rem; }
 }
 
 /* ---------- Buttons ---------- */
